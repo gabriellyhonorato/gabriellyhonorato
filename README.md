@@ -1,6 +1,8 @@
 ## Boas-vindas ao meu perfil 💙
 
 **Meu nome é Gabrielly Honorato**
+Estudo no CEEP
+Estou me estudando em Técnico De Informática
 
 
 
